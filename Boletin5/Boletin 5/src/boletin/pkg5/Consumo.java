@@ -36,4 +36,5 @@ public class Consumo {
         System.out.println("El consumo medio en litros son = "+consumo_medio);
         return consumo_medio;
     }
+    
 }

@@ -6,8 +6,8 @@ public class Boletin5 {
 
     public static void main(String[] args) {
         Consumo obx=new Consumo();
-        obx.valor_km();
-        obx.valor_litros();
+        double k=obx.valor_km();
+        double l=obx.valor_litros();
         obx.consumoMedio();
     }
   
